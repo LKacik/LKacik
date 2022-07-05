@@ -37,7 +37,7 @@ W czasie kursu nauczyłem się nie tylko programować, ale rozwijałem swoje umi
 
 ## Moje projekty
 
-* [reservation_of_an_apartment](https://github.com/LKacik/reservation-of-an-apartment)
+* [apartment_booking](https://github.com/LKacik/apartment-booking)
 
 * [cepik_app](https://github.com/LKacik/cepik_app)
 
@@ -69,4 +69,4 @@ Programowanie to nie wszystko, kolekcjonuje retro sprzęt, jestem fanem maszyn A
 
 Skontaktuj się ze mną mailowo: Lkacik@hotmail.com
 
-Linkedin: 
+Linkedin: https://www.linkedin.com/in/%C5%82ukasz-kacik-093691224/
