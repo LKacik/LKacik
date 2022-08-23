@@ -4,8 +4,8 @@
 Cześć, nazywam się Łukasz Kacik, jestem początkującym programistą Python, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem oraz projektami, które miałem dotychczas przyjemność wykonać.
 <center>
   
-<img src="https://drive.google.com/uc?export=view&id=1hn64RISVHaVGEXtgU79hje7R8PU8_lUn" width="230" height="276"/>
-  
+<img src="https://drive.google.com/uc?export=view&id=1ge56x7O2Ph8Traqv92VofcyihvmHIGoR" width="230" height="276"/>
+
 </center>
 
 
