@@ -41,6 +41,8 @@ W czasie kursu nauczyłem się nie tylko programować, ale rozwijałem swoje umi
 
 * [cepik_app](https://github.com/LKacik/cepik_app)
 
+* [games_library](https://github.com/LKacik/games-library)
+
 * [django_SDA](https://github.com/LKacik/DjangoSDA)
 
 * [quest](https://github.com/LKacik/quest)
