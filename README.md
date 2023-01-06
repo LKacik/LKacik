@@ -63,7 +63,7 @@ Programowanie to nie wszystko, kolekcjonuje retro sprzęt, jestem fanem maszyn A
 
 <center>
   
-\\inprogress image hobby\\
+<img src="https://drive.google.com/uc?export=view&id=1zi3NfRiKZpQdn0Jqnm9Fs7oYpOHJHlMQ" width="606" height="320"/>
 
 </center>
 
